@@ -120,7 +120,7 @@ class MyTextFields extends StatelessWidget {
         )),
         labelText: labelText,
         // focusedBorder:
-        labelStyle: TextStyle(color: Colors.red, fontSize: 20),
+        labelStyle: TextStyle(color: Colors.red, fontSize: 30),
         border: OutlineInputBorder(),
       ),
       controller: controller,
